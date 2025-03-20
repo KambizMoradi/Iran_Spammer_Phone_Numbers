@@ -1,6 +1,6 @@
 # Iran Spammer Phone Numbers
-This is a list that have phone numbers spam sms and call, generally for advertising goals. I try to list them to here.
-Feel free to use them in any case you want.
+This is a list that have phone numbers spam sms and call, generally for advertising goals. I try to list them here.
+Feel free to use it in any case you want.
 
 ## Format
 There is two separete list:
